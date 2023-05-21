@@ -1,6 +1,6 @@
 # Gexton Education Java Programming Internship
 
-All the following Projects are written in pure java. The frontend is done using java swing, 
+All the following Projects are written in pure java. The frontend is done using java swing. 
 for the databases, a serialized local object is created and referred to later on
 
 

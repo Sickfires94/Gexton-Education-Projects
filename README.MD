@@ -26,4 +26,4 @@ All the following Projects are written in pure java. The frontend is done using 
 
 
 
-#### **The Internship Test** was my final test where I was given an api key to a news website and told to tabulate the news articles including a clickable button in that redirects to the actual news article
+ **The Internship Test** was my final test where I was given an api key to a news website and told to tabulate the news articles including a clickable button in that redirects to the actual news article

@@ -1,5 +1,7 @@
 # Gexton Education Java Programming Internship
 
+### These are all the projects I completed during my 6-week internship period in Gexton Education in the summer of 2022
+
 All the following Projects are written in pure java. The frontend is done using java swing. 
 for the databases, a serialized local object is created and referred to later on
 
